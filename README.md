@@ -3,6 +3,8 @@ clawers working with ifttt to get pics or videos you like from social media. con
 
 For twitter and Sina Weibo, ifttt don't have working channel can download pics or videos we liked, only thing working even fine is save link to the post . But I really need the function personally, I write some simple code using urllib and beautiful soup to download those medias.
 
+After add necessary parameters in the code, you can use these code create alfred workflows, then those code can be called by a simple command in alfred in the future
+
 # Twitter
 you can just add a channel in ifttt to save your liked post's link to a html file. add the path to the folder hold those files in code.
 
